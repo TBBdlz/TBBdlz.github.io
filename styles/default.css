@@ -1,46 +1,47 @@
 html {
-	background-color: #2BC6E8;
+  background-color: #2bc6e8;
 }
 
 body {
-	width: 800px;
-	margin: 0 auto;
-	background-color:antiquewhite;
-	padding: 0 20px 20px 20px;
-	border: 3px solid black;
+  width: 800px;
+  margin: 0 auto;
+  background-color: antiquewhite;
+  padding: 0 20px 20px 20px;
+  border: 3px solid black;
 }
 
 img {
-	display: block;
-	margin: 0 auto;
-	border: 3px solid white;
+  display: block;
+  margin: 0 auto;
+  border: 3px solid white;
 }
 
 h1 {
-	font-size: 80px;
-	text-align: center;
-	margin: 0;
-	padding: 20px 0;
-	font-family: 'PT Serif', serif;
-	color: blue;
-	text-shadow: 3px 3px 1px black;
+  font-size: 80px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  font-family: "PT Serif", serif;
+  color: blue;
+  text-shadow: 3px 3px 1px black;
 }
 
-p, li {
-	font-size: 16px;
-	line-height: 2;
-	letter-spacing: 1px;
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
 }
 
 .medium-image {
-	width:375px;
-	height: 250px;
+  width: 375px;
+  height: 250px;
 }
 
 .popular {
-	border: 4px dashed red;
+  border: 4px dashed red;
 }
 
 #heading {
-	color: blue;
+  color: blue;
 }
