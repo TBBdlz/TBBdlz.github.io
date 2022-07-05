@@ -31,3 +31,16 @@ p, li {
 	line-height: 2;
 	letter-spacing: 1px;
 }
+
+.medium-image {
+	width:375px;
+	height: 250px;
+}
+
+.popular {
+	border: 4px dashed red;
+}
+
+#heading {
+	color: blue;
+}
