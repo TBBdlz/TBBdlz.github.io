@@ -33,6 +33,11 @@ li {
   letter-spacing: 1px;
 }
 
+figure {
+  margin: 10px 10px;
+  text-align: center;
+}
+
 .medium-image {
   width: 375px;
   height: 250px;
