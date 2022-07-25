@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@600&family=IBM+Plex+Mono:wght@400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+body {
+  background-color: black;
+  color: white;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1020px;
+  height: 1200px;
+  margin: 0 auto;
+}
+
+.container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.side-bar {
+  float: left;
+  width: 41%;
+  height: 100%;
+  background-color: #141414;
+}
+
+.portfolio-content {
+  float: right;
+  width: 59%;
+  height: 100%;
+  background-color: #212121;
+}
+
+.name {
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#full-name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#nickname {
+  font-size: 20px;
+}
+
+.contact {
+  text-align: center;
+}
+
+.mail {
+  margin-bottom: 20px;
+}
+
+#mail-link:hover,
+#mail-link:visited,
+#mail-link:hover,
+#mail-link:link {
+  color: white;
+  text-decoration: none;
+}
+
+.link-icons {
+  display: flex;
+  justify-content: space-evenly;
+  justify-items: center;
+  margin-bottom: 20px;
+}
+
+.education {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.personal-info {
+  margin: 20px;
+  text-align: left;
+}
+
+#info-header {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.portfolio-content {
+  padding: 30px;
+}
+
+.terminal-text {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.green {
+  color: #1abb1a;
+}
+
+.header {
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.dash {
+  font-size: 24px;
+  font-weight: normal;
+}
