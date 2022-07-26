@@ -51,18 +51,9 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
-@media only screen and (min-width: 601px) {
-  p,
-  li {
-    font-size: 3vw;
-    line-height: 3;
-    letter-spacing: 1px;
-  }
-}
-
 p,
 li {
-  font-size: 1rem;
+  font-size: 1.3rem;
   line-height: 2;
   letter-spacing: 1px;
 }
